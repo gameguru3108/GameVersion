@@ -1,0 +1,2 @@
+# GameVersion
+AllGameVersionHealdals
